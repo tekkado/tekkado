@@ -9,7 +9,6 @@ I'm a Computer Science student at York University. When programming, the languag
 *   🌍  I'm based in Toronto
 *   ✉️  You can contact me at [minal3601@gmail.com](mailto:minal3601@gmail.com)
 *   🧠  I'm learning Design and Analysis of Algorithms and Software Design
-*   ⚡  twitch.tv/tekado\_
 
 ### Skills
 <p align="left">
