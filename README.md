@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shams Minal Rahman
 ==========================================================================================================================================
 
-Prev Software Dev @ BMO || Computer Science @ York University
+Software Engineer || Prev Software Dev @ BMO || Computer Science Grad from York University
 ----------------------------
 
-I'm a Computer Science student at York University. When programming, the languages I enjoy working with are JavaScript, and HTML/CSS along with C and Java. I enjoy creating my own projects, playing sports with friends, and playing video games here and there.
+I'm a Computer Science graduate from York University. When programming, the languages I enjoy working with are JavaScript, and HTML/CSS along with C and Java. I enjoy creating my own projects, playing sports with friends, and playing video games here and there.
 
 *   🌍  I'm based in Toronto
 *   ✉️  You can contact me at [minal3601@gmail.com](mailto:minal3601@gmail.com)
